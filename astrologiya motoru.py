@@ -57,3 +57,4 @@ elif month == 'noyabr':
     astro_sign = 'ƏQRƏB' if (day < 22) else 'OXATAN'
 print("Sizin bürcünüz :",astro_sign) 
 print("Sizin hal hazırda", age, "yaşınız var. Sizin iliniz - "+animal_sign)
+#coded by @katletcorey
